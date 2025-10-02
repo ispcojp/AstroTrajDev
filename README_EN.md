@@ -17,6 +17,7 @@
 ## Using AstroTraj
 
 - Access the cloud version here: [AstroTraj](https://d3ckxaulmhak11.cloudfront.net/)
+    - Although the scope of use for the cloud version is currently limited, you can try it out. Please contact us by email at the address below.
 - GitHub repository (local installation version): Coming soon
 
 ### Quick Start
